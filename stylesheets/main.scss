@@ -1,0 +1,13 @@
+@import "base/base";
+@import "mixins/mixins";
+
+//Import your blocks
+
+// @import "blocks/header";
+
+@import "blocks/block";
+
+body {
+    background: #eee;
+}
+
